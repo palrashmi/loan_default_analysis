@@ -6,6 +6,11 @@ This project analyzes loan default trends using Power BI, DAX, Dataflows, and in
 
 ---
 
+## Dataset
+
+[Download Dataset](https://docs.google.com/spreadsheets/d/1Mx1Nr5LtGdpPXelgJp3vkA9krGv8Ucxp/edit?usp=sharing)
+
+
 ## Technologies Used
 - Power BI Desktop
 - Power BI Service
